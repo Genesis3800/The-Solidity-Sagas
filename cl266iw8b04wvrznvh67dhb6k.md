@@ -70,6 +70,7 @@ In general, a variable of the type 'address' holds 20 bytes, the general size of
      address public tempAddr1;
      address public tempAddr2 = 0x165CD37b4C644C2921454429E7F9358d18A45e14;
 ```
+If you have the time to do so, do check out what the address in tempAddr2 stands for.
 
 > Note- When you don't initialise a variable with a specific value in solidity, it is by default assigned a zero-value. For example, an uninitialised bool type will be assigned a value of 'false', while an equivalent variable of type int will be assigned a value of 0.
 
