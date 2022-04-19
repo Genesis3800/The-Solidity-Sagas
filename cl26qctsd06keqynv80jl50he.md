@@ -17,11 +17,11 @@ This is how we would declare a fixed-size array-
 ```
 When we declare an array like we declared tempArr3, the size of the array becomes equal to the number of values we initialised it with. Whereas, tempArr4 is a dynamic array with an undetermined size.
 
-Array value type offers us four basic methods- 
+Here are the two main Array methods offered to us in solidity- 
 
 - Length: *Arr.length* will return the size of an array. We can check the size of a fixed-size array, or assign a new size to a dynamic array using this method.
 
-- Push: *Arr.push* doesn't return anything. It merely pushes a new element towards the end of your array.
+- Push/Pop: *Arr.push* and *Arr.pop* don't return anything. Push merely inserts a new element towards the end of the array, while Pop removes the last element of the array.
 
 
 > Note- Arrays in themselves are a huge topic. They can be fixed size or dynamic, they can store simple value types or complex types like struct and mappings. You can also store multiple reference types in a single array. All of this will be explored in detail in later posts.
