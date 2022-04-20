@@ -1,7 +1,7 @@
 ## View and Pure Functions in Solidity
 
 This will be a short post, because trust me the concept of view and pure isn't difficult to understand. Let us get on with it.
-After publishing this article, I realized you need to know about state and local variables before going through this post. You can read about them here.
+Only after publishing this article, did I realize you need to know about state and local variables before going through this post. You can read about them [here](https://13thcodearmy.hashnode.dev/state-local-and-global-variables-in-solidity).
 
 
 1: **View Functions**
