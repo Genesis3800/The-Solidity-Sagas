@@ -8,7 +8,10 @@ I am going to start off the blog with a couple of posts on the most used data st
 
 I have worked with different coding languages in the past, and I feel diving right in is the best way to do it. As such, I will guide you through learning the language as I wish I had done when I started. 
 
-I am by now means an expert, but I will try my best to be clear and thorugh in the concepts I write about, and I hope we can both learn something via this blog. 
+I am by now means an expert, but I will try my best to be clear and thorough in the concepts I write about, and I hope we can both learn something via this blog.
+
+*This blog is targeted toward people who have previous experience with programming but are just starting out with solidity.* 
+
 I don't know if this blog pans out or not, but we can only ever try.
 
 Thank you for reading, and welcome to what will hopefully be a long-term, well-written blog that provides value to its readers.
