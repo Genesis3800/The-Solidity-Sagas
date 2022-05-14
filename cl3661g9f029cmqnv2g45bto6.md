@@ -1,4 +1,4 @@
-## Arrays in Solidity- A deep dive.
+## Arrays in Solidity
 
 Arrays in solidity are of two types-
 Fixed and Dynamic.
